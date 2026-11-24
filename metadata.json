@@ -1,0 +1,6 @@
+{
+  "name": "ScopeLedger",
+  "description": "Client change-order and scope approval tracker with original requirements comparison and agreement audit history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
